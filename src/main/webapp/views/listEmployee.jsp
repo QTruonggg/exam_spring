@@ -18,6 +18,7 @@
 
 <div class="container mt-5">
     <h2>Employee List</h2>
+    <a href="/employee/form" class="btn btn-success mb-3">Create Employee</a>
     <table class="table">
         <thead>
         <tr>
